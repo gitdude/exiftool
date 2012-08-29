@@ -1,0 +1,2 @@
+This is a small and probably useless C++ program that reads some EXIF data from a jpeg photo and adds the photo creation date and the camera model to the filename.
+
